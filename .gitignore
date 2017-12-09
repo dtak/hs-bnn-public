@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+results/
+.idea/
+.DS_Store
+*.so
+*.c
